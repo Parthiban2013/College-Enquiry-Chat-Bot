@@ -1,0 +1,72 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: linear-gradient(120deg, #23e46d, #255be3);
+    background-image: url("chat.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    overflow: hidden;
+}
+            .container {
+                position: relative;
+                top: 45%;
+            }
+
+            .center {
+                position: absolute;
+                width: 100%;
+                text-align: left;
+                left: 10%;
+                /* border: 3px solid green; */
+            }
+
+            .button {
+                outline: 0;
+                    grid-gap: 8px;
+                    align-items: center;
+                    background-color: #226FE3;
+                    color: #A9FDFF;
+                    border: 1px solid #0AD0FD;
+                    border-radius: 4px;
+                    cursor: pointer;
+                    display: inline-flex;
+                    flex-shrink: 0;
+                    font-size: 16px;
+                    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+                    font-weight: 700;
+                    gap: 8px;
+                    justify-content: center;
+                    line-height: 1.5;
+                    overflow: hidden;
+                    padding: 12px 16px;
+                    text-decoration: none;
+                    text-overflow: ellipsis;
+                    transition: all .14s ease-out;
+                    white-space: nowrap;
+            }
+            .button:hover {
+                        box-shadow: 4px 4px 0 #000;
+                        transform: translate(-4px,-4px);
+                    }
+                    .button:focus-visible{
+                        outline-offset: 1px;
+                    }
+            p {
+                font-size: 25px;
+                font-weight: 700;
+                font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            }
+            .banner {
+                position: sticky;
+                top: 0%;
+                border: none;
+                padding: 2px;
+                background-color: aliceblue;
+            }
+            
+            .banner p {
+                padding-left: 10px;
+            }

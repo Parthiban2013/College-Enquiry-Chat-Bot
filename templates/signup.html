@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>College Enquiry Chat Bot | Sign up</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="/static/signupstyle.css">
+        <script>
+            function validate() {
+                var pass = document.getElementById("password").value;
+                var repass = document.getElementById("retypepass").value;
+                if(pass !== repass) {
+                    alert("Passwords are not matching");
+                    return false;
+                }
+            }
+        </script>
+    </head>
+    <body>
+        <div class="center">
+            <h1>Sign up</h1>
+            {% with messages = get_flashed_messages() %}
+            {% if messages %}
+            {% for message in messages %}
+            <p class = "message">{{ message }} Click <a href="/login">here</a></p>
+            {% endfor %}
+            {% endif %}
+            {% endwith %}
+            <form method="post" onsubmit="return validate()" action="/adduser">
+                <div class="txt_field">
+                    <input type="text" name="firstname" required>
+                    <span></span>
+                    <label>First Name</label>
+                </div>
+                <div class="txt_field">
+                    <input type="text" name="lastname" required>
+                    <span></span>
+                    <label>Last Name</label>
+                </div>
+                <div class="txt_field">
+                    <input type="text" name="email" id="email" required>
+                    <span></span>
+                    <label>Email ID</label>
+                </div>
+                <div class="txt_field">
+                    <input type="password" name="password" id="password" required>
+                    <span></span>
+                    <label>Password</label>
+                </div>
+                <div class="txt_field">
+                    <input type="password" name="retypepass" id="retypepass" required>
+                    <span></span>
+                    <label>Re-type Password</label>
+                </div>
+                <input type="submit" value="Sign up">
+                <div class="login_link">
+                    Already a member? <a href="/login">Log in</a>
+                </div>
+            </form>
+        </div>
+    </body>
+</html>

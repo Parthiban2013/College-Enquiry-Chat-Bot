@@ -1,0 +1,200 @@
+Hi
+Hi there, you can ask me the details about: <br><br>Admission<br>Courses offered<br>College facilities<br>Fees structure<br>College events/announcements<br>Faculty members<br>Examinations<br><br>Go ahead and ask me a query.
+Hello
+Hello there, you can ask me the details about: <br><br>Admission<br>Courses offered<br>College facilities<br>Fees structure<br>College events/announcements<br>Faculty members<br>Examinations<br><br>Go ahead and ask me a query.
+Admission
+Admission occurs in two batches each year (i.e.) Academic year (AY) batch or Calendar Year (CY) batch. Candidates selected are eligible for admission to MBA/MCA/MSc/Engineering Degree Programme in any one of the immediate two successive batches of admission.<br><br>Candidates are required to clear the entrance exam to be eligible. You can find the syllabus for the entrance exam <a href='#addlink' target='_blank' style='color:blue;'>here</a><br>You can find more about the admission details <a href='#addlink' target='_blank' style='color:blue;'>here</a><br><br>You can ask more queries related to admission or other topics.
+admission process
+Admission occurs in two batches each year (i.e.) Academic year (AY) batch or Calendar Year (CY) batch. Candidates selected are eligible for admission to MBA/MCA/MSc/Engineering Degree Programme in any one of the immediate two successive batches of admission. You can find more about the admission details <a href='#addlink' target='_blank' style='color:blue;'>here</a>
+eligibility for admission
+Candidates are required to clear the entrance exam to be eligible. You can find the syllabus for the entrance exam <a href='#addlink' target='_blank' style='color:blue;'>here</a><br><br>Candidates selected are eligible for admission to MBA/MCA/MSc/Engineering Degree Programme in any one of the immediate two successive batches of admission.
+who are eligible for admission
+Candidates are required to clear the entrance exam to be eligible. You can find the syllabus for the entrance exam <a href='#addlink' target='_blank' style='color:blue;'>here</a>
+Is there an application fee for applying to the college?
+Yes, there is a non-refundable application fee of rupees 200 for all applicants. The fee covers the processing of your application.
+What documents are required for the admission application?
+The admission application requires your school/college certificates and entrance exam mark.
+How do I check the status of my admission application?
+You can check the status of your application by logging into the online application portal using the credentials you received when you applied. The portal will provide updates on your application's progress. <a href='#addlink' target='_blank' style='color:blue;'>Click here</a> to check the application status.
+Application status
+You can check the status of your application by logging into the online application portal using the credentials you received when you applied. The portal will provide updates on your application's progress. <a href='#addlink' target='_blank' style='color:blue;'>Click here</a> to check the application status.
+last date for admission
+Please check the announcement section on College website to know about the admission dates. Please click <a href='#addlink' target='_blank' style='color:blue;'>this link</a> to go to the announcements section.
+When is the last date for admission this year?
+Please check the announcement section on College website to know about the admission dates. Please click <a href='#addlink' target='_blank' style='color:blue;'>this link</a> to go to the announcements section.
+Courses offered
+We have Science department, MBA department & Engineering department. Which department do you want to know about?
+What courses do you offer?
+We have Science department, MBA department & Engineering department. Which department do you want to know about?
+Science department
+We offer the following majors in the Science department:<br><br>Master of Computer Application<br>M.Sc. Computer Science<br>M.Sc. Mathematics.<br><br>Please click <a href='#addlink' target='_blank' style='color:blue;'>this link</a> to know more.
+What courses do you offer in the Science department?
+We offer the following majors in the Science department:<br><br>Master of Computer Application<br>M.Sc. Computer Science<br>M.Sc. Mathematics.<br><br>Please click <a href='#addlink' target='_blank' style='color:blue;'>this link</a> to know more.
+MBA department
+We offer the following majors in the MBA department:<br><br>MBA - General Management<br>MBA - Technology Management<br>MBA - Financial Services Management<br>MBA - Marketing Management<br>MBA - Operations Management<br>MBA - Health Services Management<br>MBA - Human Resource Management<br>MBA - Hospitality Services Management<br>Please click <a href='#addlink' target='_blank' style='color:blue;'>this link</a> to know more.
+What courses do you offer in the MBA department?
+We offer the following majors in the MBA department:<br><br>MBA - General Management<br>MBA - Technology Management<br>MBA - Financial Services Management<br>MBA - Marketing Management<br>MBA - Operations Management<br>MBA - Health Services Management<br>MBA - Human Resource Management<br>MBA - Hospitality Services Management<br>Please click <a href='#addlink' target='_blank' style='color:blue;'>this link</a> to know more.
+Engineering department
+We offer the following majors in the Engineering department:<br><br>Civil Engineering<br>Mechanical Engineering<br>Electrical Engineering<br>Computer Science Engineering<br>Please click <a href='#addlink' target='_blank' style='color:blue;'>this link</a> to know more.
+What courses do you offer in the Engineering department?
+We offer the following majors in the Engineering department:<br><br>Civil Engineering<br>Mechanical Engineering<br>Electrical Engineering<br>Computer Science Engineering<br>Please click <a href='#addlink' target='_blank' style='color:blue;'>this link</a> to know more.
+College facilities
+Students have access to computer labs, high-speed Wi-Fi, and digital resources to support their academic work and research. <br>The campus has multiple canteens and cafes offering a variety of cuisines, including vegetarian and non-vegetarian options. <br>The campus offers a variety of sports facilities, including a gymnasium, cricket ground, tennis courts, basketball courts, and a track field. <br>The college library is well-equipped with a vast collection of books, e-books, academic journals, and digital resources. It also offers quiet study areas and computer workstations.<br><br>You can ask more queries related to campus facilities or other topics.
+Campus facilities
+Students have access to computer labs, high-speed Wi-Fi, and digital resources to support their academic work and research. <br>The campus has multiple canteens and cafes offering a variety of cuisines, including vegetarian and non-vegetarian options. <br>The campus offers a variety of sports facilities, including a gymnasium, cricket ground, tennis courts, basketball courts, and a track field. <br>The college library is well-equipped with a vast collection of books, e-books, academic journals, and digital resources. It also offers quiet study areas and computer workstations.<br><br>You can ask more queries related to campus facilities or other topics.
+library facilities
+The college library is well-equipped with a vast collection of books, e-books, academic journals, and digital resources. It also offers quiet study areas and computer workstations.
+Can you provide information about the library facilities?
+The college library is well-equipped with a vast collection of books, e-books, academic journals, and digital resources. It also offers quiet study areas and computer workstations.
+sports facilities
+The campus offers a variety of sports facilities, including a gymnasium, cricket ground, tennis courts, basketball courts, and a track field.
+What sports facilities are available on campus?
+The campus offers a variety of sports facilities, including a gymnasium, cricket ground, tennis courts, basketball courts, and a track field.
+Are there any research facilities for students?
+Yes, students have access to state-of-the-art research labs equipped with advanced technologies and equipment.
+research facilities
+Yes, students have access to state-of-the-art research labs equipped with advanced technologies and equipment.
+Is there a bookstore on campus?
+Yes, the campus bookstore offers a wide range of textbooks, course materials, college merchandise, and supplies for students.
+college research center
+The college houses various research centers specializing in different fields, providing students and faculty with opportunities for advanced research and innovation.
+Can you provide information about the college's research centers?
+The college houses various research centers specializing in different fields, providing students and faculty with opportunities for advanced research and innovation.
+Can you tell me about the college's auditorium and event spaces?
+The college has a spacious auditorium and versatile event spaces that host various cultural events, conferences, and guest lectures.
+Fee structure
+The fee structure for all programs is as follows, for first semester including caution deposit, you have to pay Rs. 18650. Rest of semesters, you have to pay Rs.12500. You can pay your fee through online mode.
+Fee detail
+The fee structure for all programs is as follows, for first semester including caution deposit, you have to pay Rs. 18650. Rest of semesters, you have to pay Rs.12500. You can pay your fee through online mode.
+What is the fee structure?
+The fee structure for all programs is as follows, for first semester including caution deposit, you have to pay Rs. 18650. Rest of semesters, you have to pay Rs.12500. You can pay your fee through online mode.
+tuition fee
+Tuition fee payments can be made online through the college's student portal. You'll find detailed instructions on how to make payments securely. To pay your fee through online, <a href='#addlink' target='_blank' style='color:blue;'>Click here</a>
+How do I pay my tuition fee?
+Tuition fee payments can be made online through the college's student portal. You'll find detailed instructions on how to make payments securely. To pay your fee through online, <a href='#addlink' target='_blank' style='color:blue;'>Click here</a>
+How do I pay my tuition fee? Is there an online payment option?
+Tuition fee payments can be made online through the college's student portal. You'll find detailed instructions on how to make payments securely. To pay your fee through online, <a href='#addlink' target='_blank' style='color:blue;'>Click here</a>
+How do I pay my fee?
+Tuition fee payments can be made online through the college's student portal. You'll find detailed instructions on how to make payments securely. To pay your fee through online, <a href='#addlink' target='_blank' style='color:blue;'>Click here</a>
+Can I pay fee through online payment?
+Tuition fee payments can be made online through the college's student portal. You'll find detailed instructions on how to make payments securely. To pay your fee through online, <a href='#addlink' target='_blank' style='color:blue;'>Click here</a>
+Are there any scholarships available to help with the tuition fee?
+Yes, the college offers various scholarships based on academic merit and financial need. You can find more details on the college website.
+Is there any chance for late payment of semester and examination fee?
+No, you have to follow the scheduled date and time for paying both semester and examination fee.
+Are there additional fees apart from the tuition fee?
+Yes, there are additional fees such as registration fee, lab fee, and library fee. The complete breakdown of fees is available in the fee structure document.
+College Events
+The college regularly hosts a variety of events, including workshops, seminars, cultural festivals, and guest lectures. You can find information about upcoming events on the college website's event calendar. <a href='#addlink' target='_blank' style='color:blue;'>Click here</a> to check the current events happening in the college.
+Announcements
+The latest announcements are available on the college website. <a href='#addlink' target='_blank' style='color:blue;'>Click here</a> to check the latest announcements.
+What are the latest announcements?
+The latest announcements are available on the college website. <a href='#addlink' target='_blank' style='color:blue;'>Click here</a> to check the latest announcements.
+How can I check the college announcements?
+The latest announcements are available on the college website. <a href='#addlink' target='_blank' style='color:blue;'>Click here</a> to check the latest announcements.
+What are the upcoming events?
+The college regularly hosts a variety of events, including workshops, seminars, cultural festivals, and guest lectures. You can find information about upcoming events on the college website's event calendar. <a href='#addlink' target='_blank' style='color:blue;'>Click here</a> to check the current events happening in the college.
+What upcoming events are happening on campus?
+The college regularly hosts a variety of events, including workshops, seminars, cultural festivals, and guest lectures. You can find information about upcoming events on the college website's event calendar. <a href='#addlink' target='_blank' style='color:blue;'>Click here</a> to check the current events happening in the college.
+How can I participate in extracurricular activities and clubs?
+To participate in extracurricular activities and clubs, you can visit the student affairs office or check the college website for information about different clubs, organizations, and events. <a href='#addlink' target='_blank' style='color:blue;'>Click here</a> to check the current events happening in the college.
+Can you tell me about the annual sports tournament?
+The annual sports tournament is a competitive event where students can participate in various sports and games. It's a chance to showcase your athletic abilities and engage in friendly competition. <a href='#addlink' target='_blank' style='color:blue;'>Click here</a> to know about the tournament dates.
+Are there career fairs organized by the college?
+Yes, the college hosts career fairs where students can connect with potential employers, explore job opportunities, and network with professionals in various industries. <a href='#addlink' target='_blank' style='color:blue;'>Click here</a> to check the current events happening in the college.
+How can I stay updated about college events?
+You can stay updated about college events by subscribing to the college newsletter, following the official social media accounts, and regularly checking the college website's event calendar. <a href='#addlink' target='_blank' style='color:blue;'>Click here</a> to check the current events happening in the college.
+extracurricular activities
+We offer a wide range of extracurricular activities, including sports teams, cultural clubs, community service groups, and academic organizations. You can explore these opportunities more on our College website. <a href='#addlink' target='_blank' style='color:blue;'>Click here</a> to check the current events happening in the college.
+What are the extracurricular activities available for students?
+We offer a wide range of extracurricular activities, including sports teams, cultural clubs, community service groups, and academic organizations. You can explore these opportunities more on our College website. <a href='#addlink' target='_blank' style='color:blue;'>Click here</a> to check the current events happening in the college.
+Faculty
+Our faculty comprises experienced professors and researchers who are dedicated to providing quality education. They are actively involved in research and committed to supporting students in their academic pursuits. <a href='#addlink' target='_blank' style='color:blue;'>Click here</a> to know about the faculty members of College.
+Faculty members
+Our faculty comprises experienced professors and researchers who are dedicated to providing quality education. They are actively involved in research and committed to supporting students in their academic pursuits. <a href='#addlink' target='_blank' style='color:blue;'>Click here</a> to know about the faculty members of College.
+College professors
+Our faculty comprises experienced professors and researchers who are dedicated to providing quality education. They are actively involved in research and committed to supporting students in their academic pursuits. <a href='#addlink' target='_blank' style='color:blue;'>Click here</a> to know about the faculty members of College.
+Tell about your faculty
+Our faculty comprises experienced professors and researchers who are dedicated to providing quality education. They are actively involved in research and committed to supporting students in their academic pursuits. <a href='#addlink' target='_blank' style='color:blue;'>Click here</a> to know about the faculty members of College.
+Who are the faculty members?
+Our faculty comprises experienced professors and researchers who are dedicated to providing quality education. They are actively involved in research and committed to supporting students in their academic pursuits. <a href='#addlink' target='_blank' style='color:blue;'>Click here</a> to know about the faculty members of College.
+Is there a faculty directory available on the college website?
+Yes, you can find a faculty directory on the college website. <a href='#addlink' target='_blank' style='color:blue;'>Click here</a> to check the faculty members of College.
+Are there any distinguished faculty members known for their research contributions?
+Yes, the college is proud to have faculty members who have made significant contributions to their respective fields through research and publications. You can learn more about their achievements on the college website. <a href='#addlink' target='_blank' style='color:blue;'>Click here</a> to know about the faculty members of College.
+Examination
+For students admitted during Calendar year, exams will be conducted during August month. For students admitted during Academic year, exams will be conducted during February month. The Examination time table is uploaded in College website once the announcement is made by the COE. <a href='#addlink' target='_blank' style='color:blue;'>Click here</a> to check the latest announcements.<br>Please click <a href='#addlink' target='_blank' style='color:blue;'>this link</a> to know about the latest exam schedule.
+When the end semester examination will start and Where to refer to know about the Examination Time Table?
+For students admitted during Calendar year, exams will be conducted during August month. For students admitted during Academic year, exams will be conducted during February month. The Examination time table is uploaded in College website once the announcement is made by the COE. <a href='#addlink' target='_blank' style='color:blue;'>Click here</a> to check the latest announcements. <br>Please click <a href='#addlink' target='_blank' style='color:blue;'>this link</a> to know about the latest exam schedule.
+When will the final exam schedule be released?
+The final exam schedule is usually released a few weeks before the end of the semester. You can find the schedule on the college's website or through the student portal. Please click <a href='#addlink' target='_blank' style="color:blue;">this link</a> to know about the latest exam schedule.
+When will the exams start?
+The final exam schedule is usually released a few weeks before the end of the semester. You can find the schedule on the college's website or through the student portal. Please click <a href='#addlink' target='_blank' style="color:blue;">this link</a> to know about the latest exam schedule.
+exam date
+The final exam schedule is usually released a few weeks before the end of the semester. You can find the schedule on the college's website or through the student portal. Please click <a href='#addlink' target='_blank' style="color:blue;">this link</a> to know about the latest exam schedule.
+When the exams will start?
+The final exam schedule is usually released a few weeks before the end of the semester. You can find the schedule on the college's website or through the student portal. Please click <a href='#addlink' target='_blank' style="color:blue;">this link</a> to know about the latest exam schedule.
+Exam timetable
+Please click <a href='#addlink' target='_blank' style="color:blue;">this link</a> to know about the latest exam schedule.
+Where to check the exam timetable?
+Please click <a href='#addlink' target='_blank' style="color:blue;">this link</a> to know about the latest exam schedule.
+When the end semester Lab examination will be conducted?
+After completion of theory examination, the end semester Lab examination will be conducted. <a href='#addlink' target='_blank' style='color:blue;'>Click here</a> to check the latest announcements.
+results announced
+Please check the announcement section on College website to know about the results. Please click <a href='#addlink' target='_blank' style="color:blue;">this link</a> to go to the announcements section.
+When the results will be announced?
+Please check the announcement section on College website to know about the results. Please click <a href='#addlink' target='_blank' style="color:blue;">this link</a> to go to the announcements section.
+Are the results announced?
+Please check the announcement section on College website to know about the results. Please click <a href='#addlink' target='_blank' style="color:blue;">this link</a> to go to the announcements section.
+Exam results
+Please check the announcement section on College website to know about the results. Please click <a href='#addlink' target='_blank' style="color:blue;">this link</a> to go to the announcements section.
+Is there a minimum passing grade for exams and courses?
+Yes, there is usually a minimum passing grade for exams and courses. The passing grade may vary by course or program. Check the course syllabus or academic policies for details.
+Can I request a reevaluation of my exam if I believe there was an error in grading?
+Yes, you can request a reevaluation of your exam if you believe there was an error in grading. Please check the announcement section on College website to know when the reevaluation will start. Please click <a href='#addlink' target='_blank' style="color:blue;">this link</a> to go to the announcements section.
+Reevaluation announcement
+You can request a reevaluation of your exam if you believe there was an error in grading. Please check the announcement section on College website to know when the reevaluation will start. Please click <a href='#addlink' target='_blank' style="color:blue;">this link</a> to go to the announcements section.
+Thank You
+Your Welcome
+Thanks
+Your Welcome
+Bye
+Thank You for visiting!..
+who created you?
+I was created by Parthiban M
+Ok
+Anything else I can assist you with?
+no
+Ok, you can ask your queries whenever you want, I am always here.
+yes
+You can ask me the details about: <br><br>Admission<br>Courses offered<br>College facilities<br>Fees structure<br>College events/announcements<br>Faculty members<br><br>Go ahead and ask me a query.
+What can you do?
+I can give information about College. You can ask me the details about admission, courses, facilities, fees structure, events, faculty, etc.
+Where is the college located?
+(College Address)
+college location
+(College Address)
+Is there a dress code on campus?
+While there is no strict dress code, we encourage students to dress appropriately for the academic environment. Certain events or facilities may have specific dress requirements.
+Can I bring a calculator or other aids to the exam?
+Allowed exam aids, such as calculators, may vary depending on the course and exam guidelines. Refer to the course syllabus or consult your professor for permitted aids.
+What should I do if I experience technical issues during an online exam?
+If you experience technical issues during an online exam, contact your professor or the helpdesk immediately for assistance.
+placement programs
+We have a dedicated career services department that helps students secure internships and work placements with reputable companies in their respective fields.
+Are there any placement programs for students
+We have a dedicated career services department that helps students secure internships and work placements with reputable companies in their respective fields.
+Career guidance
+We have a dedicated career services department that helps students secure internships and work placements with reputable companies in their respective fields.
+Does the University provide study materials for all courses?
+Yes, College provides study materials for all courses of all programmes. The students can get the study materials in SIM book format from their respective study centre.
+Where to get mark sheets, Provisional and Degree certificates?
+Individual mark sheets for each semester, provisional and degree certificates are issued by Controller of Examination through the study centre after the publication of results. You have to collect all certificates from respective study centres.
+Are there any exam tips for managing exam stress?
+Yes, managing exam stress is important. Make sure to get enough rest, eat well, and practice relaxation techniques. Also, break your study sessions into manageable chunks and take short breaks to avoid burnout.
+good
+Happy to help!!!
+nice
+Happy to help!!!
+bye bye
+ok bye

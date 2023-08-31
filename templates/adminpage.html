@@ -1,0 +1,79 @@
+<html>
+    <head>
+        <title>Chat bot | Admin page</title>
+        <link rel="stylesheet" href="/static/adminstyle.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <div class="navbar">
+            <header>
+                <h1>CDE chat bot | Admin</h1>
+                <nav>
+                    <ul class="nav_links">
+                        <li><a href="#" onclick="toggleSwitch('crud', this)" id="default">CRUD chat info</a></li>
+                        <li><a href="#" onclick="toggleSwitch('viewFeed', this)">View feedbacks</a></li>
+                    </ul>
+                </nav>
+                <a class="log" href="/logout"><button class="log">Log out</button></a>
+            </header>
+        </div>
+        <div class="chat-container" id="crud">
+            <p id="success" class="message"></p>
+            <div class="feedback-box">
+                <textarea name="dataset" id="chatdata"></textarea>
+            </div>
+            <input type="submit" value="Save" onclick="updateData()">
+        </div>
+        <div class="chat-container" id="viewFeed">
+            <table id="feedtable">
+                <tr class="row head">
+                    <th style="width: 10%;">ID</th>
+                    <th style="width: 30%;">Username</th>
+                    <th>Feedback</th>
+                </tr>
+            </table>
+        </div>
+        <script>
+            function toggleSwitch(pageId, element) {
+                var i, navcontent;
+                navcontent = document.getElementsByClassName("chat-container");
+                for (i = 0; i < navcontent.length; i++) {
+                    navcontent[i].style.display = "none";
+                }
+                
+                document.getElementById(pageId).style.display = "block";
+            }
+            document.getElementById("default").click();
+            $.get("/getfeedbacks").done(function(data) {
+                console.log(data);
+                for(var j = 0; j < data.length;j++) {
+                    var row = document.createElement("tr");
+                    row.classList.add("row");
+                    var table = document.getElementById("feedtable");
+                    for(var i = 0; i < data[j].length; i++){
+                        var rowdata = document.createElement("td")
+                        rowdata.innerHTML = data[j][i];
+                        row.appendChild(rowdata);
+                    }
+                    table.appendChild(row);
+                }
+            });
+            $.get("/getchatdata").done(function(data) {
+                var textbox = document.getElementById("chatdata");
+                textbox.value = data;
+            });
+            function updateData() {
+                var textbox = document.getElementById("chatdata").value;
+                console.log(textbox);
+                $.get("/updatechatdata", {chatdata: textbox}).done(function(data) {
+                    const response = data;
+                    document.getElementById("success").innerText = response;
+                });
+                $(function() {
+                setTimeout(function() { $("#success").fadeOut(1500); }, 4000)
+                });
+            }
+        </script>
+    </body>
+</html>

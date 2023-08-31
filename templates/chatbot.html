@@ -1,0 +1,148 @@
+<html>
+    <head>
+        <title>Chat Bot</title>
+        <link rel="stylesheet" href="/static/chatstyle.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <div class="navbar">
+        <header>
+            <h1>CDE chat bot</h1>
+            <nav>
+                <ul class="nav_links">
+                    <li><a href="#" onclick="toggleSwitch('chat', this)" id="default">Home</a></li>
+                    <li><a href="#" onclick="toggleSwitch('feedback', this)">Feedback</a></li>
+                    <li><a href="#" onclick="toggleSwitch('about', this)">About us</a></li>
+                </ul>
+            </nav>
+            <a class="log" href="/logout"><button class="log">Log out</button></a>
+        </header>
+    </div>
+    <div class="chat-container" id="chat">
+        <div class="chat-box" id="chatBox">
+            <div class="chat-message bot">
+                <p style="font-size: 13px;padding-left: 1px;padding-top: 5px; font-weight: 600;line-height: 40%;">Bot</p>
+                <p>Hello {{message}}! How can I assist you today?</p>
+              </div>
+        </div>
+        <div class="user-input">
+            <input type="text" id="userInput" placeholder="Ask your query" onblur="this.focus()" autofocus>
+            <button id="chatsubmit" class="chatbutton" onclick="sendMessage()">Send</button>
+        </div>
+    </div>
+    <script>
+        var input = document.getElementById("userInput");
+
+        input.addEventListener("keypress", function(event) {
+            if(event.key === "Enter") {
+                event.preventDefault();
+                document.getElementById("chatsubmit").click();
+            }
+        });
+        function sendMessage() {
+        var userInput = document.getElementById("userInput").value;
+        
+        // const date = new Date();
+        // const h = "0" + date.getHours();
+        // const m = "0" + date.getMinutes();
+
+        if (userInput.trim() !== "") {
+            var chatBox = document.getElementById("chatBox");
+            var userMessage = document.createElement("div");
+            userMessage.classList.add("chat-message", "user");
+            userMessage.innerHTML = "<p style='font-size: 13px;padding-left: 1px;padding-top: 5px; font-weight: 600;line-height: 40%;'>You</p><p>" + userInput + "</p>";
+            // <p style='color: #f2f2f2; font-size: 12px;text-shadow: 10px;margin-top: -2px'>" + `${h.slice(-2)}:${m.slice(-2)}` + "</p>"
+            chatBox.appendChild(userMessage);
+            chatBox.scrollBy(0, chatBox.scrollHeight)
+
+            
+            var botMessage = document.createElement("div");
+            botMessage.classList.add("chat-message", "bot");
+            // var response = botResponse(userInput);
+            // console.log("returned" + response);
+            $.get("/getresponse", {msg: userInput}).done(function (data) {
+            const response = data;
+            console.log(userInput);
+            console.log(response);
+            botMessage.innerHTML = "<p style='font-size: 13px;padding-left: 1px;padding-top: 5px; font-weight: 600;line-height: 40%;'>Bot</p><p>" + response + "</p>";
+            chatBox.appendChild(botMessage);
+            });
+            
+            
+
+            document.getElementById("userInput").value = "";
+            setTimeout(function() {chatBox.scrollBy(0, chatBox.scrollHeight);}, 400);
+        }
+    }
+    // function botResponse(query) {
+    //     $.get("/getresponse", {msg: query}).done(function (data) {
+    //         const response = data;
+    //         console.log(query);
+    //         console.log(response);
+    //         return response;
+    //     });
+    // }
+    </script>
+    <div class="chat-container" id="feedback">
+        <h1 id="feedheader">Feedback</h1>
+        {% with messages = get_flashed_messages() %}
+        {% if messages %}
+        {% for message in messages %}
+        <p id="disappear" class = "message">{{ message }}</p>
+        {% endfor %}
+        {% endif %}
+        {% endwith %}
+        <p id="success" class="message"></p>
+        <!-- <form method="post" action="/feedback"> -->
+            <div class="feedback-box">
+                <textarea name="feedtext" id="feed" placeholder="Enter your feedback..."></textarea>
+            </div>
+            <input type="submit" value="Submit" onclick="sendFeedback()">
+        <!-- </form> -->
+    </div>
+    <div class="chat-container" id="about">
+        <h3>About us</h3>
+        <div class="imgbox">
+            <img src="/static/about.jpg">
+        </div>
+        <p>
+            In tune with the growing global trend of extending conventional University instructional mode to online, self learning and distance education methodology, College has created the Centre for Distance Education.</p>
+
+<p>Through this initiative College aims to impart professional education that would provide competitive edge in the global business environment, to advance the qualifications of the needy by providing hard and soft skills to be a better performer and to meet multiple real corporate world challenges through tailor made professional courses.</p>
+
+<p>In its endeavour towards transformation of knowledge and to build-up technology and managerial competencies to professionals, the University is offering professional MBA, MCA and M.Sc. (Computer Science Programmes through Distance mode from the year 2007.
+        </p>
+    </div>
+    <script>
+        function toggleSwitch(pageId, element) {
+            var i, navcontent;
+            navcontent = document.getElementsByClassName("chat-container");
+            for (i = 0; i < navcontent.length; i++) {
+                navcontent[i].style.display = "none";
+            }
+            
+            document.getElementById(pageId).style.display = "block";
+        }
+        document.getElementById("default").click();
+
+        function sendFeedback() {
+            var feedback = document.getElementById("feed").value;
+
+            if(feedback.trim() !== "") {
+                $.get("/feedback", {feedvalue: feedback}).done(function (data) {
+                const response = data;
+                console.log(feedback);
+                console.log(response);
+                document.getElementById("success").innerText = response;
+            });
+
+            document.getElementById("feed").value = "";
+            $(function() {
+                setTimeout(function() { $("#success").fadeOut(1500); }, 4000)
+            })
+            }
+        }
+    </script>
+    </body>
+</html>

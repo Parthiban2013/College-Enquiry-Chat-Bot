@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>College Enquiry Chat Bot | Log in</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="\static\loginstyle.css">
+    </head>
+    <body>
+        <div class="center">
+            <h1>CDE Chat Bot | Login</h1>
+            {% with messages = get_flashed_messages() %}
+            {% if messages %}
+            {% for message in messages %}
+            <p class = "message">{{ message }}</p>
+            {% endfor %}
+            {% endif %}
+            {% endwith %}
+            <form method="post" action="/verify">
+                <div class="txt_field">
+                    <input type="text" name="username" required>
+                    <span></span>
+                    <label>Email ID</label>
+                </div>
+                <div class="txt_field">
+                    <input type="password" name="password" required>
+                    <span></span>
+                    <label>Password</label>
+                </div>
+                <div class="pass"><a href="/forgot">Forgot Password?</a></div>
+                <input type="submit" value="Login">
+                <div class="signup_link">
+                    Not a member? <a href="/signup">Signup</a>
+                </div>
+            </form>
+        </div>
+    </body>
+</html>
